@@ -44,4 +44,3 @@ Numeración de salidas de un Switch: las salidas se numeran en el orden en que s
 Conversión de tipos: activar "Convert types where required" en los nodos Switch evita errores cuando se compara un número (ej. paso_actual) contra un valor de texto.
 4. Pruebas realizadas
 
-Ver evidencias en la carpeta /evidencias. Se realizaron pruebas funcionales del flujo completo: navegación del menú principal, submenú de Agenda, y el wizard completo de agendamiento de cita de punta a punta, incluyendo el guardado final en la hoja CITAS.
